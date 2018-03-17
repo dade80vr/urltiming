@@ -3,5 +3,5 @@ Detailed URL timing report - based on Sniff by manifestinteractive https://gist.
 
 Usage:
 ```shell
-urltiming www.google.com
+./urltiming.sh google.com
 ```
